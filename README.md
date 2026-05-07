@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/charithabuddareddygari/coding/tree/master/0796-rotate-string) |
+## Array
+|  |
+| ------- |
+| [3660-jump-game-ix](https://github.com/charithabuddareddygari/coding/tree/master/3660-jump-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3660-jump-game-ix](https://github.com/charithabuddareddygari/coding/tree/master/3660-jump-game-ix) |
 <!---LeetCode Topics End-->
