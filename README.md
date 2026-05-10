@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/charithabuddareddygari/coding/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/charithabuddareddygari/coding/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/charithabuddareddygari/coding/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/charithabuddareddygari/coding/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/charithabuddareddygari/coding/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
