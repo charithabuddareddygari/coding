@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/charithabuddareddygari/coding/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/charithabuddareddygari/coding/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/charithabuddareddygari/coding/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/charithabuddareddygari/coding/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/charithabuddareddygari/coding/tree/master/2540-minimum-common-value) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/charithabuddareddygari/coding/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/charithabuddareddygari/coding/tree/master/2784-check-if-array-is-good) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1345-jump-game-iv](https://github.com/charithabuddareddygari/coding/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/charithabuddareddygari/coding/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/charithabuddareddygari/coding/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/charithabuddareddygari/coding/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/charithabuddareddygari/coding/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/charithabuddareddygari/coding/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charithabuddareddygari/coding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/charithabuddareddygari/coding/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/charithabuddareddygari/coding/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/charithabuddareddygari/coding/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
