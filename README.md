@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/charithabuddareddygari/coding/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/charithabuddareddygari/coding/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/charithabuddareddygari/coding/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1840-maximum-building-height](https://github.com/charithabuddareddygari/coding/tree/master/1840-maximum-building-height) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/charithabuddareddygari/coding/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/charithabuddareddygari/coding/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/charithabuddareddygari/coding/tree/master/2540-minimum-common-value) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/charithabuddareddygari/coding/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/charithabuddareddygari/coding/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/charithabuddareddygari/coding/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/charithabuddareddygari/coding/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/charithabuddareddygari/coding/tree/master/1840-maximum-building-height) |
 | [2784-check-if-array-is-good](https://github.com/charithabuddareddygari/coding/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/charithabuddareddygari/coding/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/charithabuddareddygari/coding/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
