@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/charithabuddareddygari/coding/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/charithabuddareddygari/coding/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/charithabuddareddygari/coding/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/charithabuddareddygari/coding/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1840-maximum-building-height](https://github.com/charithabuddareddygari/coding/tree/master/1840-maximum-building-height) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/charithabuddareddygari/coding/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/charithabuddareddygari/coding/tree/master/2196-create-binary-tree-from-descriptions) |
